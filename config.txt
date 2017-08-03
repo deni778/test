@@ -32,8 +32,8 @@
 "tls_fingerprint" : "",
 
 
-"pool_address" : "xmr-eu.dwarfpool.com:8005",
-"wallet_address" : "44hSWN6WQmBSeKbc4E7v2kL29hbxxHvjo5YsmVnyZYM2KUWueZhV8avSXPZk4Z8CAcd1a7Zw4UH1SCbMvWSt15re8Tg6pQM.1c1",
+"pool_address" : "xmr.pool.minergate.com:45560",
+"wallet_address" : "dwarfpool900@yandex.ru",
 "pool_password" : "x",
 
 
